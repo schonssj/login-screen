@@ -7,7 +7,7 @@ document.querySelector('#form-login').addEventListener('mouseenter', e => {
 });
 
 document.querySelector('#form-login').addEventListener('mouseleave', e => {
-    console.log("Leaved!");
+    console.log("Left!");
 });
 
 document.querySelector("#form-login").addEventListener('submit', e => {
