@@ -1,4 +1,4 @@
-# Login screen
+# Login Screen
 A simple login screen developed using HTML, CSS and JavaScript. 
 
 This project was developed during a course, in order to practice some concepts that are listed right below:
