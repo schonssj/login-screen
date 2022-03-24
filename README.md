@@ -4,8 +4,8 @@ A simple login screen developed using HTML, CSS and JavaScript.
 This project was developed during a course, in order to practice some concepts that are listed right below:
 
 - Semantic use of HTML tags, global attributes and events;
-- Responsive design, pseudo-classes using;
-- DOM events handling.
+- Responsive design, CSS pseudo-classes using;
+- DOM events handling with JavaScript.
 
 Here are some screenshots of the page using Microsoft Edge browser. The first one is related to its full size, whereas the second one is a mobile size example.
 <p align="center">
